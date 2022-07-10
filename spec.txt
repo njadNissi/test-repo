@@ -3,3 +3,5 @@ This is a test for a spec model.
 try to benefit from advantages linked with git.
 ty to get updated with new technologies.
 try to keep oneself away from data loss.
+
+this is line was not in version1.
